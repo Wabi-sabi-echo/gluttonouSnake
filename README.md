@@ -2,31 +2,9 @@
 ## 环境
 - JDK1.8
 - IDEA
-## 文件结构
-.
-├── Game.iml
-├── README.md
-├── images
-│   ├── body.png
-│   ├── bottom.png
-│   ├── food.png
-│   ├── left.png
-│   ├── right.png
-│   └── top.png
-├── out
-│   └── production
-│       └── Game
-│           └── demo
-│               ├── Direction.class
-│               ├── MyPanel$1.class
-│               ├── MyPanel.class
-│               └── MySnake.class
-└── src
-    └── demo
-        ├── Direction.java
-        ├── MyPanel.java
-        └── MySnake.java
 
+## 游戏简介
+基于java的swing包实现的贪吃蛇游戏，适合新手练习
 
 ## 游戏规则
 - 贪吃蛇的头一旦碰到自己身体，游戏终止。
