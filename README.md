@@ -1,10 +1,10 @@
-# gluttonouSnake 基于java的贪吃蛇小游戏
+# gluttonouSnake 基于Java的贪吃蛇小游戏
 ## 环境
 - JDK1.8
 - IDEA
 
 ## 游戏简介
-基于java的swing包实现的贪吃蛇游戏，适合新手练习
+基于Java的swing包实现的贪吃蛇游戏，适合新手练习
 
 ## 游戏规则
 - 贪吃蛇的头一旦碰到自己身体，游戏终止。
